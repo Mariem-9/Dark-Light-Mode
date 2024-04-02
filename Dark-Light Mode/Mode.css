@@ -1,0 +1,18 @@
+#icon{
+    width: 30px;
+    cursor: pointer;
+}
+body{
+    background-color:var(--primary-color);
+}
+p{
+    color:var(--secondary-color);
+}
+:root{
+    --primary-color: #bb2233;
+    --secondary-color: #FAE3CF;
+}
+.dark-theme{
+    --primary-color: #0A0F24;
+    --secondary-color: #FA8603;
+}
